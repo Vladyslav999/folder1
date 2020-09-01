@@ -1,0 +1,4 @@
+pandas==0.24.1
+numpy==1.19.0
+dask==2.25.0
+distributed==2.25.0
